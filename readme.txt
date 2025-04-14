@@ -2,8 +2,6 @@
 
 A modern weather dashboard application that provides real-time weather updates for any city. Built with React, Node.js, and Tailwind CSS.
 
-![Weather Dashboard Screenshot](screenshot.png)
-
 ## Features
 
 - Real-time weather data for any city
@@ -66,7 +64,7 @@ Realtime-weather-dashboard/
 
 4. Start the backend server:
    ```bash
-   npm start
+   npm run dev
    ```
 
    The server will run on `http://localhost:4000`
